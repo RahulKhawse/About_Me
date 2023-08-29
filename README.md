@@ -6,7 +6,14 @@
 
 ###
 
+<p>🦋 I am a Computer Science and Engineering Undergraduate at Madhav Institute of Technology, Gwalior.
+
+🦋 I love Competitive Programming & Web development .</p>
+
 <div align="left">
+
+<h1>✨LANGUAGES AND TOOLS✨</h1>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
