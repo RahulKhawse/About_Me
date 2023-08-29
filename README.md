@@ -22,6 +22,8 @@
 
 🦋 A great learner.</p>
 
+<br>
+
 <div align="left">
 
 <h1>✨LANGUAGES AND TOOLS✨</h1>
@@ -40,6 +42,8 @@
 </div>
 
 ###
+
+<br>
 
 <div align="left">
   <a href="https://www.instagram.com/" target="_blank">
